@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Code](https://github.com/LelloX-Dev/blog-preview-card-repo)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://lellox-dev.github.io/blog-preview-card-repo/)
 
 ---
 
